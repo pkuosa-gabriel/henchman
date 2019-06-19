@@ -8,7 +8,7 @@
                  [com.fasterxml.jackson.datatype/jackson-datatype-jdk8 "2.9.7"]
                  [compojure "1.6.1"]
                  [cprop "0.1.13"]
-                 [funcool/struct "1.3.0"]
+                 [funcool/struct "1.4.0"]
                  [luminus-immutant "0.2.4"]
                  [luminus-transit "0.1.1"]
                  [luminus/ring-ttl-session "0.3.2"]
