@@ -19,7 +19,7 @@
                  [nrepl "0.4.5"]
                  [org.clojure/clojure "1.9.0"]
                  [org.clojure/tools.cli "0.4.1"]
-                 [org.clojure/tools.logging "0.4.1"]
+                 [org.clojure/tools.logging "0.6.0"]
                  [org.webjars.bower/tether "1.4.4"]
                  [org.webjars/bootstrap "4.1.3"]
                  [org.webjars/font-awesome "5.5.0"]
