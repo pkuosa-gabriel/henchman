@@ -56,7 +56,7 @@
                                  [prone "1.6.1"]
                                  [ring/ring-devel "1.7.1"]
                                  [ring/ring-mock "0.3.2"]]
-                  :plugins      [[com.jakemccrary/lein-test-refresh "0.23.0"]]
+                  :plugins      [[com.jakemccrary/lein-test-refresh "0.25.0"]]
                   
                   :source-paths ["env/dev/clj"]
                   :resource-paths ["env/dev/resources"]
