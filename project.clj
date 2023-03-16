@@ -10,7 +10,7 @@
                  [cprop "0.1.13"]
                  [funcool/struct "1.3.0"]
                  [luminus-immutant "0.2.4"]
-                 [luminus-transit "0.1.1"]
+                 [luminus-transit "0.1.6"]
                  [luminus/ring-ttl-session "0.3.2"]
                  [markdown-clj "1.0.5"]
                  [metosin/muuntaja "0.6.1"]
