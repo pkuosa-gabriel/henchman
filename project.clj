@@ -23,7 +23,7 @@
                  [org.webjars.bower/tether "1.4.4"]
                  [org.webjars/bootstrap "4.1.3"]
                  [org.webjars/font-awesome "5.5.0"]
-                 [org.webjars/jquery "3.3.1-1"]
+                 [org.webjars/jquery "3.7.1"]
                  [org.webjars/webjars-locator "0.34"]
                  [ring-webjars "0.2.0"]
                  [ring/ring-core "1.7.1"]
