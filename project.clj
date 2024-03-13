@@ -5,7 +5,7 @@
 
   :dependencies [[clojure.java-time "0.3.2"]
                  [com.fasterxml.jackson.core/jackson-core "2.9.7"]
-                 [com.fasterxml.jackson.datatype/jackson-datatype-jdk8 "2.9.7"]
+                 [com.fasterxml.jackson.datatype/jackson-datatype-jdk8 "2.17.0"]
                  [compojure "1.6.1"]
                  [cprop "0.1.13"]
                  [funcool/struct "1.3.0"]
