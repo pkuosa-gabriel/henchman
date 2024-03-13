@@ -4,7 +4,7 @@
   :url "http://example.com/FIXME"
 
   :dependencies [[clojure.java-time "0.3.2"]
-                 [com.fasterxml.jackson.core/jackson-core "2.9.7"]
+                 [com.fasterxml.jackson.core/jackson-core "2.17.0"]
                  [com.fasterxml.jackson.datatype/jackson-datatype-jdk8 "2.9.7"]
                  [compojure "1.6.1"]
                  [cprop "0.1.13"]
